@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">XamarinQuickBlox</string>
+  <string name="get_username">Enter your Username</string>
+  <string name="get_email">Enter your Email</string>
+  <string name="get_password">Enter your password</string>
 </resources>
